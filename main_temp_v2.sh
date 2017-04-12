@@ -4,7 +4,7 @@
 ##################################################
 # Author: lxy                                    #
 # create date: 2015-10-10                        #
-# Content:v2_test                                #
+# Content:v2_test step2                          #
 ##################################################
 path=$(cd "$(dirname "$0")"; pwd)
 cd "$path"
